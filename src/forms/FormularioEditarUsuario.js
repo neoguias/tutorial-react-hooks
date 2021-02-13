@@ -4,7 +4,7 @@ const FormularioEditarUsuario = (props) => {
   const [usuario, setUsuario] = useState(props.usuarioActual);
 
   useEffect(() => {
-    setUsuario(props.usuarioActual)
+    setUsuario(props.usuarioActual);
   }, [props]);
 
   const gestionarCampo = (event) => {
