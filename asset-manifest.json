@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tutorial-react-hooks/static/css/main.7e26e198.chunk.css",
+    "main.js": "/tutorial-react-hooks/static/js/main.51a31cfd.chunk.js",
+    "main.js.map": "/tutorial-react-hooks/static/js/main.51a31cfd.chunk.js.map",
+    "runtime-main.js": "/tutorial-react-hooks/static/js/runtime-main.4b2cf282.js",
+    "runtime-main.js.map": "/tutorial-react-hooks/static/js/runtime-main.4b2cf282.js.map",
+    "static/js/2.7fc46969.chunk.js": "/tutorial-react-hooks/static/js/2.7fc46969.chunk.js",
+    "static/js/2.7fc46969.chunk.js.map": "/tutorial-react-hooks/static/js/2.7fc46969.chunk.js.map",
+    "index.html": "/tutorial-react-hooks/index.html",
+    "static/css/main.7e26e198.chunk.css.map": "/tutorial-react-hooks/static/css/main.7e26e198.chunk.css.map",
+    "static/js/2.7fc46969.chunk.js.LICENSE.txt": "/tutorial-react-hooks/static/js/2.7fc46969.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b2cf282.js",
+    "static/js/2.7fc46969.chunk.js",
+    "static/css/main.7e26e198.chunk.css",
+    "static/js/main.51a31cfd.chunk.js"
+  ]
+}
